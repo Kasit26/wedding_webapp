@@ -1,0 +1,451 @@
+body{
+    font-family:  'Montserrat';
+}
+.parent{
+    background-color: #48c1e8;
+    color: white;
+    padding-top: 9px;
+    padding-bottom: 5px;
+}
+.navbarr{
+    background-color: aliceblue;
+}
+.btnn{
+    padding: 5px 61px;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid #9cc6e5;
+}
+.menuu{
+    padding: 10px 45px;
+}
+.menuu li{
+    padding-top: 5px;
+}
+
+.image{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+}
+.menu1 li{
+    font-size: 15px;
+    margin-left: 30px;
+}
+.menu1 li a{
+    color: black;
+}
+.login{
+    padding: 3px 35px;
+    border-radius: 20px;
+}
+.img{
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+    position: relative;
+}
+.select1{
+    padding: 10px 135px;
+    border: none;
+    border-radius: 10px;
+
+}
+.select2{
+    padding: 10px 135px;
+    border: none;
+    border-radius: 10px;
+
+}
+.get{
+    padding: 10px 47px;
+    border: none;
+    border-radius: 10px;
+    background-color: #48c1e8;
+    color: white;
+}
+.position{
+    position: absolute;
+    top: 58%;
+    width: 100%;
+    height: 27%;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.8;
+    background-image: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.8) 49%, rgb(0, 0, 0));
+}
+.selectt{
+    margin-left: 15%;
+}
+.img1{
+    width: 200px;
+    object-fit: cover;
+    border-radius: 10px;
+}
+.img2{
+    width: 200px;
+    height: 133px;
+    object-fit: cover;
+    border-radius: 10px;
+
+}
+.color{
+    color:  #48c1e8;
+}
+.bride{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+.child1{
+    background-color: rgb(216, 223, 252);
+    height: auto;
+    width: 100%;
+}
+
+.child3{
+    background-color: rgb(244, 213, 194);
+    height: auto;
+    width: 100%;
+}
+
+.child4{
+    background-color: rgb(223, 178, 173);
+    height: auto;
+    width: 100%;
+}
+
+.child5{
+    background-color: rgb(246, 184, 150);
+    height: auto;
+    width: 100%;
+}
+.child6{
+    background-color: rgb(207, 205, 184);
+    height: auto;
+    width: 100%;
+}
+.photo{
+    width: 100%;
+    height: 120px;
+    object-fit: cover;
+    border-bottom-left-radius: 50px;
+}
+.child2{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+.paragraph{
+    color: #48c1e8;
+}
+.know{
+    padding: 11px 35px;
+    margin: auto;
+    display: block;
+    background-color: white;
+    border-color: #48c1e8;
+    color: #48c1e8;
+
+}
+.img3{
+    border-radius: 5px;
+    width: 100%;
+}
+.box{
+    height: auto;
+    width: 100%;
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 1px 5px 0px;
+    overflow: hidden;
+    padding: 10px;
+}
+.wedsta{
+    color: #48c1e8;
+}
+.image1{
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 5px;
+    margin-top: 5px;
+}
+.photos1{
+    width: 100%;
+    border-radius: 5px;
+}
+.photos11{
+    width: 100%;
+    border-radius: 5px;
+}
+.cardd{
+    padding: 8px;
+}
+.menu2 li{
+    list-style: none;
+    font-size: 14px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.menu2 li:hover{
+    color: black;
+}
+.footer{
+    background-color: #48c1e8;
+    color: white;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    margin-top: 50px;
+}
+.about{
+    color: #48c1e8;
+}
+.menu3 li{
+   list-style: none;
+   margin-top: 10px;
+   font-size: 14px;
+   font-weight: 400;
+}
+#mail{
+    padding: 8px 54px;
+    margin: auto;
+    display: block;
+}
+.submit{
+    padding: 10px 120px;
+    border: none;
+    background-color: #48c1e8;
+    color: white;
+    margin: auto;
+    display: block;
+    margin-top: 10px;
+}
+.Facebook{
+    color: #48c1e8;
+}
+.Twitter{
+    color: skyblue;
+}
+.Instagram{
+    color: red;
+}
+.colorr h4{
+    color: #4a4a4a;
+    font-size: 22px;
+    font-weight: 600;
+}
+.colorr h5{
+    color: #4a4a4a;
+    font-size: 22px;
+    font-weight: 400;
+}
+.colorr p{
+    color: #4a4a4a;
+    font-size: 14px;
+    font-weight: 400;
+}
+.image2{
+    width: 100%;
+    height: 165px;
+    object-fit: cover;
+}
+.reall{
+    color: #48c1e8;
+}
+#name{
+    padding: 12px;
+}
+.btn1{
+    width: 100%;
+    padding: 10px;
+    background-color: #48c1e8;
+    border: none;
+    color: white;
+    border-radius: 10px;
+}
+.heading{
+    background: rgba(0, 0, 0, .6);
+    padding: 5px 20px;
+    font-size: 26px;
+    line-height: 39px;
+    font-weight: 400;
+    color: white;
+}
+.background{
+    background-image: url(/asset/img/background1.jpg);
+    padding-top: 220px;
+    padding-bottom: 50px;
+}
+.imgg{
+    width: 100%;
+    margin: auto;
+    display: block;
+}
+.imgg1{
+    width: 250px;
+    margin: auto;
+    display: block;
+}
+.circle{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.starr{
+    color: #48c1e8;
+}
+.pax{
+    background-color: rgb(238, 238, 238);
+    padding: 6px;
+}
+.boxes{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.over{
+    overflow: hidden;
+}
+.bride:hover{
+    transition: 0.5s ease-in-out;
+    transform: scale(1.3);
+    cursor: pointer;
+}
+.hover:hover h6{
+    color: #48c1e8;
+}
+.img3:hover{
+    transition: 0.5s ease-in-out;
+    transform: scale(1.3);
+    cursor: pointer;
+}
+.box:hover .know{
+    background-color: #48c1e8;
+    color: white;
+    transform: 1s;
+}
+.image1:hover{
+    transition: 0.5s ease-in-out;
+    transform: scale(1.3);
+    cursor: pointer;
+}
+.photos1:hover{
+    transition: 0.5s ease-in-out;
+    transform: scale(1.3);
+    cursor: pointer;
+}
+.cardd:hover h6{
+    color: #48c1e8;
+}
+.menu1 li:hover a{
+    border-bottom: 1px solid #48c1e8;
+    color: #48c1e8;
+}
+.crusiv h5{
+    font-family: cursive;
+    color: #48c1e8;
+}
+.image2:hover{
+    transition: 0.5s ease-in-out;
+    transform: scale(1.3);
+    cursor: pointer;
+}
+.coloring:hover h6{
+    color: #42A5F5;
+}
+.parent1{
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.navbarr{
+    box-shadow: 0 2px 4px -1px #42A5F5;
+
+}
+@media(max-width:600px){
+    .btn_nav{
+        margin-left: 54%;
+    }
+    .hide{
+        display: none;
+    }
+    .menu1 li{
+        margin-left: 1px;
+    }
+    .parentt{
+        position: relative;
+    }
+    .select1{
+        display: none;
+    }
+
+.select2 {
+    display: none;
+
+}
+.get{
+    margin-top: 8px;
+    margin-left: 20%;
+    padding: 4px 38px;
+    border-radius: 6px;
+
+
+}
+.img{
+    height: 548px;
+}
+.circle{
+    margin: auto;
+    display: block;
+}
+.blur_pic{
+    margin: auto;
+    display: block;
+}
+.invite_img{
+    height: 258px;
+    width: 100%;
+    object-fit: cover;
+}
+.position{
+    height: 42%;
+}
+.img1{
+    width: 100%;
+}
+.img2{
+    width: 100%;
+    height: 100%;
+}
+.headd{
+    text-align: center;
+}
+.color{
+    text-align: center;
+}
+.bride{
+    width: 100%;
+}
+.child1{
+    margin-top: 10px;
+}
+
+.child3{
+    margin-top: 10px;
+}
+
+.child4{
+    margin-top: 10px;
+}
+
+.child5{
+    margin-top: 10px;
+}
+
+.child6{
+    margin-top: 10px;
+}
+.rowss{
+    padding-top: 1px;
+}
+.menu3{
+    margin-top: 10px;
+}
+}
